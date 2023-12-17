@@ -1,3 +1,15 @@
+Need TO Learn:
+
+1.Git
+
+2.Terraform
+
+3.AWS
+
+4.Azure
+
+5.Liunx
+
 # Terraform Conscepts
 1.Introduction to Terraform
 
